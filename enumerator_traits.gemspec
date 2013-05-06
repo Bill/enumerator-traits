@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'enumerator_traits/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "enumerator_traits"
+  gem.name          = "enumerator-traits"
   gem.version       = EnumeratorTraits::VERSION
   gem.authors       = ["Bill"]
   gem.email         = ["bill.burcham@gmail.com"]
